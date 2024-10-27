@@ -1,5 +1,3 @@
-The API is deployed on Azure and accessible at [https://demo-cityinfoapi.azurewebsites.net/swagger/](https://demo-cityinfoapi.azurewebsites.net/swagger/).
-
 ## Overview
 
 The Web API provides a range of endpoints to manage and interact with resources. It supports operations such as creating, retrieving, updating, and deleting resources. The API is built with ASP.NET Core and leverages Entity Framework Core for data management.
@@ -37,5 +35,3 @@ The Web API provides a range of endpoints to manage and interact with resources.
 
 - **Testing and Deployment**
   - Endpoints can be tested using HTTP_REPL or .http files.
-  - Deployment include Azure App Service with integrated logging and monitoring.
-  - Managed using Azure Key Vault for storing the authentication secret.
